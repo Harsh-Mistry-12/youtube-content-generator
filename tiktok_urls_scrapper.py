@@ -5,4 +5,8 @@ Xpaths:
 
 Get it in the format of .csv file:
 Referenced in the file *tiktok_reference.csv*
+
+Python Version: 12.5
 """
+
+from selenium import webdriver
