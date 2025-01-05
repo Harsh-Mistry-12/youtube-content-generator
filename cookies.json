@@ -1,0 +1,37 @@
+{
+    "delay_guest_mode_vid": "5",
+    "passport_csrf_token": "5140701d2c7122724be78dcd3127cb92",
+    "passport_csrf_token_default": "5140701d2c7122724be78dcd3127cb92",
+    "last_login_method": "google",
+    "tiktok_webapp_theme_source": "system",
+    "tiktok_webapp_theme": "dark",
+    "living_user_id": "117768100166",
+    "ak_bmsc": "299F6EB5B01EA810EDFB80E0FD1E6FF3~000000000000000000000000000000~YAAQWL5uaBs7mfSTAQAAtjG7HRpSQSmTpiYhwxHnEE/6P06VilE10CQmz+g+h/jH1g7neY00X2HgXAjl8YHgqXnAkzFht96RrvUfH3zz9jmVQnZ8fFKUE8qr4L8BaSJW97jWy32k0BVKyerCprDIXBPaKXQNswRVKrFJwleptV3E318OzrGaNkeKOnm63jpibDdBT8SbORha4WAnszNSx1s+yjpotyBLcKpDSlAUDnOsiq1za7FoH3Zf0RE/2gxuU4PFJzH5x7do0sDacefF19+E89HcDikyplhzxcULvZcpHtunq9G5p0xUnYKJtiuEjGNXsQNV54fDF0U5GGev9EQEoP8IO8ajzwqmnkJRQAt4LMTPRYwOhGu0dfdlNfttdc3PsRc+QgyybA==",
+    "perf_feed_cache": {
+      "expireTimestamp": 1735686000000,
+      "itemIds": [
+        "7454280913757785376",
+        "7454391311915912478",
+        "7451068158611344646"
+      ]
+    },
+    "cookie-consent": {
+      "optional": true,
+      "ga": true,
+      "af": true,
+      "fbp": true,
+      "lip": true,
+      "bing": true,
+      "ttads": true,
+      "reddit": true,
+      "hubspot": true,
+      "version": "v10"
+    },
+    "bm_sv": "89B17BFEBE8908679FD9061384A6BAD1~YAAQXb5uaBX1ahmUAQAAKkm8HRprVYFH4xbu2fFYy/7uO8DxTnnL06vp4ccxqnHrBEwoL6U0fkX+MgWKcwtO4v5ryPekGT82AAR9pM98YEZzSmoffPyJ7Gh2WQCfnkSiUdqgn7IRpGYAeA6NEH7WZNZ1R8JyhSe5J7M37vLb0+dq6zNmUXKbvjWfGd5rum4azsZDV1Yn5HHZUvCINWjbI2hYDPuXK/f2TkL2lJkZTqGbrqQm+t08cd2MqMczlbb9~1",
+    "passport_fe_beating_status": true,
+    "msToken": [
+      "8GdaHuNJ9_kxo3kjAffgO-MG8NkboZNKO9nuVxUfykHgcZ649HLjBwLbZMdwvbBUEbVVF1lmulKhx_B9rPFoGmoYoYINZ2idAzj0Yf7Neq917W-my-L-duE2bAdAGw9zhgjcKMY0PYi_mFP6jz5ZIFZH",
+      "8GdaHuNJ9_kxo3kjAffgO-MG8NkboZNKO9nuVxUfykHgcZ649HLjBwLbZMdwvbBUEbVVF1lmulKhx_B9rPFoGmoYoYINZ2idAzj0Yf7Neq917W-my-L-duE2bAdAGw9zhgjcKMY0PYi_mFP6jz5ZIFZH"
+    ]
+  }
+  

@@ -1,0 +1,4 @@
+Web Url: https://www.tiktok.com/search?q=ASMR
+Search Query: Search Keyword is the "Category"
+Video Urls: //div[@data-e2e="search_top-item-list"]/div[contains(@class, "ItemContainerForSearch")]/div[@aria-label="Watch in full screen"]//a
+Video Views: //div[@id="search-tabs"]/following-sibling::div[1]//div[@aria-label="Watch in full screen"]//a//strong[@data-e2e="video-views"]

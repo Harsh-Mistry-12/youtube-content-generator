@@ -6,7 +6,7 @@ VPN Connection:
 
 import yt_dlp
 
-def download_tiktok_video(url, download_path='7401714948356803872.mp4'):
+def download_tiktok_video(url, download_path='videos/pizza/Another_day_another_repizza_the_new_handcrafted_crust_from_Pizza_Hut.mp4'):
     # Set options for yt-dlp to avoid the watermark
     ydl_opts = {
         'format': 'best',  # Download the best video quality
@@ -30,5 +30,5 @@ def download_tiktok_video(url, download_path='7401714948356803872.mp4'):
 
 if __name__ == "__main__":
     # Replace this with the TikTok video URL you want to download
-    video_url = 'https://www.tiktok.com/@pubity/video/7401714948356803872'
+    video_url = 'https://www.tiktok.com/@kanwerpannu/video/7349221550890945798'
     download_tiktok_video(video_url)
